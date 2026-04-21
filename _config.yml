@@ -1,0 +1,26 @@
+title: Crab School
+baseurl: ""
+url: "https://crab-school.github.io/.github"
+remote_theme: "mmistakes/so-simple-theme"
+description: "Welcome to Crab School's GitHub Pages site!"
+
+# So Simple theme settings
+logo: "/assets/crab_school.png"
+skin: "default"
+locale: "en-US"
+search: true
+footer_links:
+  - title: "GitHub"
+    url: "https://github.com/Crab-School"
+    icon: "fab fa-github"
+
+# Social
+social:
+  type: "Organization"
+  name: "Crab School"
+  links:
+    - "https://github.com/Crab-School"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
