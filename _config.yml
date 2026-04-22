@@ -2,7 +2,6 @@ title: Crab School
 baseurl: ""
 url: "https://crab-school.github.io/.github"
 remote_theme: "mmistakes/so-simple-theme"
-description: "Welcome to Crab School's GitHub Pages site!"
 
 # So Simple theme settings
 logo: "/assets/crab_school.png"
@@ -13,6 +12,19 @@ footer_links:
   - title: "GitHub"
     url: "https://github.com/Crab-School"
     icon: "fab fa-github"
+
+# Add custom stylesheet
+sass:
+  style: compressed
+  load_paths:
+    - assets
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      stylesheet: "/assets/main.scss"
 
 # Social
 social:
