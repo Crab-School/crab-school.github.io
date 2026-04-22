@@ -1,7 +1,9 @@
+
 title: Crab School
 baseurl: ""
 url: "https://crab-school.github.io/.github"
 remote_theme: "mmistakes/so-simple-theme"
+description: "Collaborative learning and open-source excellence."
 
 # So Simple theme settings
 logo: "/assets/crab_school.png"
@@ -18,6 +20,9 @@ sass:
   style: compressed
   load_paths:
     - assets
+
+# So Simple theme custom CSS
+custom_css: /assets/custom.css
 
 defaults:
   - scope:
