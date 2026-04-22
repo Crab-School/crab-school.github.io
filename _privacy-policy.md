@@ -33,4 +33,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-* **GitHub Repository:** [Insert your CARAPACE GitHub Repo URL here for issue tracking]
+* **GitHub Repository:** [https://github.com/Crab-School/carapace](https://github.com/Crab-School/carapace) (for issue tracking)
